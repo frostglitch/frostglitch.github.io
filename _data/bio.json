@@ -8,7 +8,6 @@
     "website": "https://bennytrieu.github.io/",
     "summary": "Hello, my name is Benny. I am an undergraduate studying for a Computer Science degree at University of Hawaii at Manoa. I plan to graduate on spring 2023.",
     "location": {
-      "address": "Honolulu, HI",
       "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -59,49 +58,47 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows 10 OS",
+        "Putty",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "Unity"
+        "Eclipse"
+        "Filezilla"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-26",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.41",
       "courses": [
+        "ICS Intro I & II (ICS 111 & ICS 211)",
+        "ICS Discreet Math I & II (ICS 141 & ICS 241)",
+        "ICS Scripting in C/C++ (ICS 212)",
+        "ICS Algorithms(ICS 311)(Currently)",
+        "ICS Software Engineering(ICS 314)(Currently)"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Mcdonald's",
+      "position": "Resturant Crew Member",
+      "website": "https://www.mcdonalds.com/us/en-us.html",
+      "startDate": "2019-08-08",
+      "endDate": "2019-10-04",
+      "summary": "Part-time Crew member for the Mcdonald's company",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Took down the customer’s orders and worked at the cashier",
+        "Made the drinks for the customers,
+        "Cleaned the trays after they were done being used by the customers",
+        "Refilled ice for the drinks",
+        "Help sweep and clean up the floors when they got dirty"
       ]
     }
   ],
