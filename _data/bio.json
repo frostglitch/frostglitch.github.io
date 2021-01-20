@@ -104,28 +104,45 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "USTA",
+      "website": "https://www.usta.com/en/home.html",
+      "position": "Volunteer",
+      "startDate": "2017-07-01",
+      "endDate": "2019-07-01",
+      "summary": "Help promote physical activity to kids",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Set up the booth",
+        "Help distribute prizes",
+        "Encourage kids to sign up for tennis lessons",
+        "Interact and help with the prize wheel"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Children's Discovery Center",
+      "website": "http://discoverycenterhawaii.org/",
+      "position": "Caretaker",
+      "startDate": "2018-06-01",
+      "endDate": "2018-09-01",
+      "summary": "Nurture and help educate the children in the environment",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Facilitated and helped clean up areas for kids to play on",
+        "Attended to and interacted with the children",
+        "Helped out parents and their services"
+      ]
+    },
+    {
+      "organization": "Nā Kūpuna Makamae Community Center",
+      "website": "",
+      "position": "Farmer's market volunteer",
+      "startDate": "2019-07-01",
+      "endDate": "2019-08-01",
+      "summary": "Support and give help to the farmer's market",
+      "highlights": [
+        "Volunteering would start only on 2nd and 4th friday of the month",
+        "Helped assemble the farmer's market",
+        "Helped with the transactions of the vegetables being sold at the farmer's market",
+        "Recorded down the amount of vegetables sold and the amount of vegetables left",
+        "Helped disassemble the farmer's market after the event was over"
       ]
     }
   ],
