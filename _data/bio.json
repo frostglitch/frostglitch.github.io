@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Benny Trieu",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://github.com/bennytrieu/bennytrieu.github.io/blob/master/images/Professional%20profile%20pic.png",
+    "email": "trieu6@hawaii.edu",
+    "phone": "808-255-5818",
+    "website": "https://bennytrieu.github.io/",
+    "summary": "Hello, my name is Benny. I am an undergraduate studying for a Computer Science degree at University of Hawaii at Manoa. I plan to graduate on spring 2023.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "Honolulu, HI",
+      "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "bennytrieu",
+        "url": "https://bennytrieu.github.io/"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Benny Trieu",
+        "url": "https://www.linkedin.com/in/benny-trieu-8369541aa/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Video Games",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Game Design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -64,9 +52,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
