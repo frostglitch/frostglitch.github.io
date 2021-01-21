@@ -1,6 +1,6 @@
 ---
 layout: project
-type: video/project
+type: project
 image: images/camera.png
 title: Advertisement for boy's tennis team
 permalink: 
