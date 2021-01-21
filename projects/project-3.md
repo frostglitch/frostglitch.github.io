@@ -14,8 +14,6 @@ labels:
 summary: A video project for my head coach to get more high school boys to join the tennis team.
 ---
 
-<img class="thumbnail" src="{{ site.baseurl }}/images/vidpic.png">
-
 One project I had to do for my tennis team was to make a advertising video to encourage high school freshmen and sophmores to join the tennis team. The goal was to make a short and simple video for it to be uploaded onto the morning high school news to classrooms who watch it in the morning. The time took to plan and film took about 2 months to plan, schedule days to film it, and to edit. 
 
 One struggle would have to be scheduling a few days where the boys team can come early to the tennis courts to film mainly because at least 10 boys would have to agree to help out film in their free time which can cause a lot of scheduling conflict. Another issue was time and resources since I was limited to editing only during my digital media class time and after school giving me only certain amount of time to work on the project. 
