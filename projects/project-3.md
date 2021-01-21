@@ -22,6 +22,6 @@ One struggle would have to be scheduling a few days where the boys team can come
 
 The skills that I have learned from this project was time management, scheduling, video productivity, pre-planning, and editing. It has taught me time management since i am only given 1-2 months to upload the video before break starts. Scheduling and pre-planning is very important as it helps layout the production day and what the final product could look like based off of the film that could be produced on scheduling and when everyone's available. Video productivity and editing is implemented since it helps strengthen my knowledge on learning how cameras work along with using an editing software called Adobe Premiere Pro.  
 
-The image above is one of the shots of my video. I unfortunately cannot show the vieeo since I would have to request permission from 10+ people in this video to show this video specifically.
+The image above is one of the shots of my video. I unfortunately cannot show the video since I would have to request permission from 10+ people in this video to show this video specifically.
 
 
