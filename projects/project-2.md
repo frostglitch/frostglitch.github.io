@@ -13,7 +13,7 @@ labels:
 summary: A program which prompts the user to input their data into a bank database as a project for ICS 212.
 ---
 
-<img class="database image" src="../images/database.jpg">
+<img class="database image" src="../images/database2.jpg">
 
 This was the first project that was done for my class in ICS 212. In this project we first had to make the user interface for the user to see and prompts the user to pick the options shown on their screen. They have the option to add record, find record, print all the records, delete records, or to quit the program. We then have to make the database to hold the records that the user decides to create, find, or delete. The entire code was built using C code on unix in vim. 
 
