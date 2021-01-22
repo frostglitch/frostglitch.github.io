@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/robloxhouse.png
+image: images/robloxhousethumb.png
 title: Roblox house built project
 permalink: project
 # All dates must be YYYY-MM-DD format!
