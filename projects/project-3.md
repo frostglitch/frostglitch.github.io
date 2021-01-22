@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Camera.png
+image: images/filmthumb.png
 title: Advertisement for boy's tennis team
 permalink: 
 # All dates must be YYYY-MM-DD format!
