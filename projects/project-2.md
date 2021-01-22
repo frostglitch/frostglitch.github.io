@@ -13,7 +13,7 @@ labels:
 summary: A program which prompts the user to input their data into a bank database as a project for ICS 212.
 ---
 
-<img class="database image" src="../images/example.png">
+<img class="database image" src="../images/smallexample.png">
 
 (fixed the image being unrelated and huge)
 
