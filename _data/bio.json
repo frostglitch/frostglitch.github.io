@@ -104,6 +104,21 @@
   ],
   "volunteer": [
     {
+      "organization": "Nā Kūpuna Makamae Community Center",
+      "website": "",
+      "position": "Farmer's market volunteer",
+      "startDate": "2019-07-01",
+      "endDate": "2019-08-01",
+      "summary": "Support and give help to the farmer's market",
+      "highlights": [
+        "Volunteering would start only on 2nd and 4th friday of the month",
+        "Helped assemble the farmer's market",
+        "Helped with the transactions of the vegetables being sold at the farmer's market",
+        "Recorded down the amount of vegetables sold and the amount of vegetables left",
+        "Helped disassemble the farmer's market after the event was over"
+      ]
+    },
+    {
       "organization": "USTA",
       "website": "https://www.usta.com/en/home.html",
       "position": "Volunteer",
@@ -128,21 +143,6 @@
         "Facilitated and helped clean up areas for kids to play on",
         "Attended to and interacted with the children",
         "Helped out parents and their services"
-      ]
-    },
-    {
-      "organization": "Nā Kūpuna Makamae Community Center",
-      "website": "",
-      "position": "Farmer's market volunteer",
-      "startDate": "2019-07-01",
-      "endDate": "2019-08-01",
-      "summary": "Support and give help to the farmer's market",
-      "highlights": [
-        "Volunteering would start only on 2nd and 4th friday of the month",
-        "Helped assemble the farmer's market",
-        "Helped with the transactions of the vegetables being sold at the farmer's market",
-        "Recorded down the amount of vegetables sold and the amount of vegetables left",
-        "Helped disassemble the farmer's market after the event was over"
       ]
     }
   ],
