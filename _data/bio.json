@@ -148,23 +148,29 @@
   ],
   "awards": [
     {
-      "title": "Most Inspirational Athlete",
-      "date": "2019",
-      "awarder": "Mckinley High School Athletic Banquet",
-      "summary": "This was awarded as a sign of showing the most improvement and hard effort in the team. This medal was awarded to me since I have improved a lot in my senior year of Tennis and have put in a lot of time and effort in my tennis season."
-    },
-    {
       "title": "Charles R Hemenway Scholarship",
-      "date": "2020-2021",
+      "date": "2020-10-05",
       "awarder": "University of Hawaii at Manoa",
       "summary": "This was awarded to me for having a minimum GPA of 2.0, having good citizenship, and by being enrolled to University of Hawaii at Manoa as a full time student"
     },
     {
       "title": "Hawaii Veterans Memorial Scholarship",
-      "date": "2020-2021",
+      "date": "2020-10-05",
       "awarder": "University of Hawaii at Manoa",
       "summary": "This was awarded to me similarly to the Charles R Hemenway Scholarship for having a minimum GPA of 2.0, having good citizenship, and by being enrolled to University of Hawaii at Manoa as a full time student"
-    }
+    },
+    {
+      "title": "Most Inspirational Athlete",
+      "date": "2019-05-19",
+      "awarder": "Mckinley High School Athletic Banquet",
+      "summary": "This was awarded as a sign of showing the most improvement and hard effort in the team. This medal was awarded to me since I have improved a lot in my senior year of Tennis and have put in a lot of time and effort in my tennis season."
+    },
+    {
+      "title": "Teisei Tengan Memorial Scholarship",
+      "date: "2019-05-16",
+      "awarder": "Teisei Tengan Memorial Donor",
+      "summary": "Awarded for recognition of my accomplishments of my four years of high school"
+    } 
   ],
   "references": [
     {
