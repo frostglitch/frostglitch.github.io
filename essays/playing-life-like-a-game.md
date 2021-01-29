@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Playing life like a game
+title: Playing Life like a Game
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 labels:
