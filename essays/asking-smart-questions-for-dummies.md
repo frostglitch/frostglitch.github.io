@@ -31,5 +31,7 @@ All of these elements set up for a good smart question in which return gives out
 This experience has helped gain a perspective on what it is like to ask smart questions. When asking smart questions the wrong way, people will either not answer it altogether or answer but in a more harsher tone. Asking a smart question can be seen as a beneficial opportunity for people who read it and can really reflect on both sides on where they stand in intelligence. This type of method can pave a pathway for future soon to be software engineers who undergo the same question that the person asking once had. 
 
 The links below show the smart way and the dummy way to ask smart questions.
-[The Dummy Way](https://stackoverflow.com/questions/4325639/android-calling-javascript-functions-in-webview)
-[The Smart Way](https://stackoverflow.com/questions/65948563/i-made-an-mistake-plz-help-me-ror-firebase-hosting)
+
+[The Dummy Way](https://stackoverflow.com/questions/65948563/i-made-an-mistake-plz-help-me-ror-firebase-hosting)
+
+[The Smart Way](https://stackoverflow.com/questions/4325639/android-calling-javascript-functions-in-webview)
