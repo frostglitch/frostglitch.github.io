@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/piggythumb.png
-title: Bank database
+title: Bank Database
 permalink: 
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-10
