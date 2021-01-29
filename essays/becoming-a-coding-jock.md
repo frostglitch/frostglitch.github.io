@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Becoming a coding jock
+title: Becoming a Coding Jock
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 labels:
