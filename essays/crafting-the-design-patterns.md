@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Design Patterns in Minecraft
+title: Crafting the Design Patterns
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-29
 labels:
