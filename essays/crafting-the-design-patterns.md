@@ -17,7 +17,7 @@ In the world of code there are problems that we have to solve but each of these 
 
 ## Minecraft
 
-<img class="ui tiny left circular floated image" src="../images/minecraft-logo.png">
+<img class="ui tiny left circular floated image" src="../images/minecraft-logo-2.jpg">
 
 Design Patterns in a way can be applied to minecraft the same way it can be applied to coding. The goal of minecraft is to just survive but there are many different ways or design patterns for that goal specifically. Since minecraft is a sand-box game, it allows the player many different ways to solve the problem on how to survive similarly to code where the coder is given many different ways to solve bugs and issues that would appear in their program.
 
