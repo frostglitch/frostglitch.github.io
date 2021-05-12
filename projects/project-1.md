@@ -14,7 +14,7 @@ labels:
 summary: A house that I have made in a sims-inspired game called "Welcome to Bloxburg". The game itself was not made by me but the house is.
 ---
 
- <img src="../images/robloxhouse.png">
+ <img src="../images/robloxhouse.png" class="ui tiny floated right image" style="width:384px;height:216px;">
 
 In my free time, I have decided to make a house in a game called "Welcome to Bloxburg". The game "Welcome to Bloxburg" is heavily inspired by the game "The Sims" where you have to take care of your character while also making a house at the same time. The main focus was to make a house for my character to satisfy my character's needs and give him shelter. The amount of time put into this project took quite a while since it was done in my own free time. 
 
