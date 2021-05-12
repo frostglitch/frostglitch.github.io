@@ -23,7 +23,7 @@ Design Patterns in a way can be applied to minecraft the same way it can be appl
 
 ## A Singleton Spider-farm
 
-An option that players can do in minecraft is a spider-farm which can be easily done by trapping it with blocks. Players can utilize this to intialize cobweb farming as material for the players to use. The downside to this is if not managed correctly or watched over well, the spiders can very easily attack the players back unexpectedly and could hypothetically kill them if not prepared well enough to fight them back. This is similar to a singleton where it is a global variable that can be accessed by any files but could lead to negative consequences if not watched over carefully since it can be accessed and changed very easily.
+An option that players can do in minecraft is a spider-farm which can be easily done by trapping it with blocks. Players can utilize this to initialize cobweb farming as material for the players to use. The downside to this is if not managed correctly or watched over well, the spiders can very easily attack the players back unexpectedly and could hypothetically kill them if not prepared well enough to fight them back. This is similar to a singleton where it is a global variable that can be accessed by any files but could lead to negative consequences if not watched over carefully since it can be accessed and changed very easily.
 
 ```
 #include<stdio.h>
@@ -37,7 +37,7 @@ Above is an example of a singleton in C language where it is a external integer 
 
 ## Redstone Observer
 
-In minecraft you can make all types of mechanics and machinery with the power of redstone. One of the redstone machines you can craft in minecraft is called an observer. Observers can be used to help alert and check on certain mechanics in their survival. It's quite a funny coincidence since this has the exact same functionality and name as the design pattern which is called observer. They both check whether a state change has appeared but they have a small difference. The observer in minecraft checks for changes in terms of block placement while an observer checks in terms of state of a specific variable in the code. This is similar to the code I put in C++ where the variable "lever" is currently 0 and the while loop can be seen as the "observer", checking if lever is 0. When lever is changed to 1 after the user inputs "quit" it will change lever to 1 which the observer is notified and ends the while loop.
+In minecraft you can make all types of mechanics and machinery with the power of redstone. One of the redstone machines you can craft in minecraft is called an observer. Observers can be used to help alert and check on certain mechanics in their survival. It's quite a funny coincidence since this has the exact same functionality and name as the design pattern which is called observer. They both check whether a state change has appeared but they have a small difference. The observer in minecraft checks for changes in terms of block placement while an observer checks in terms of the state of a specific variable in the code. This is similar to the code I put in C++ where the variable "lever" is currently 0 and the while loop can be seen as the "observer", checking if the lever is 0. When the lever is changed to 1 after the user inputs "quit" it will change lever to 1 when the observer is notified and ends the while loop.
 
 ```
 while(lever == 0)
