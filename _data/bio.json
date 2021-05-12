@@ -51,18 +51,23 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Semantic UI", 
+        "React", 
+        "MeteorJS", 
+        "Underscore", 
+        "EZ Graphics"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows 10 OS",
+        "Windows OS",
         "Mac OS",
-        "Putty",
         "Git/GitHub",
-        "g++",
         "Unity",
         "Eclipse",
         "Filezilla"
